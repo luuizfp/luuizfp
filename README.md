@@ -3,8 +3,8 @@
 
 - 🔭 Trabalho no SCC SBT 
 - 🌱 Estou cursando Análise e Desenvilvmento de Sistemas
-- 🤔 Estou procuradno estágios na área de programação
-- 😄 Pronouns: Ele/Dele
+- 🤔 Estou procurando estágios na área de programação
+- 😄 Pronomes: Ele/Dele
   
 <div> 
   <a href="https://instagram.com/luuizfp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
